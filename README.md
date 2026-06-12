@@ -19,14 +19,14 @@
 
 ---
 
-## 👥 Miembros del Equipo (Grupo 9)
+## 👥 Miembros del Equipo
 
-| Nombre Completo | Rol en el Proyecto | Contacto (GitHub/Email) |
+| Nombre Completo | Rol en el Proyecto |         Carrera         |
 |:----------------|:-------------------|:------------------------|
-| 💚 Janet Chambi Condori | Arquitecta de Infraestructura — Proxy, TLS, DNS y Monitoreo | [usuario-github] |
-| 💙 Alex Josué Calatayud Mamani | Ingeniero de Aplicaciones — App1 y Automatización (Health Check) | [usuario-github] |
-| 💜 Jhon Christian Quispe Anagua | Administrador de Sistemas — App2 y Panel de Administración | [usuario-github] |
-| 🧡 Luis Fernando Quispe Sullca | Administrador de Base de Datos — MariaDB y Backups (DRP) | [usuario-github] |
+| 💚 Janet Chambi Condori | Arquitecta de Infraestructura — Proxy, TLS, DNS y Monitoreo | Ingeniería de Sistemas |
+| 💙 Alex Josué Calatayud Mamani | Ingeniero de Aplicaciones — App1 y Automatización (Health Check) | Ingeniería de Sistemas |
+| 💜 Jhon Christian Quispe Anagua | Administrador de Sistemas — App2 y Panel de Administración | Ingeniería de Sistemas |
+| 🧡 Luis Fernando Quispe Sullca | Administrador de Base de Datos — MariaDB y Backups (DRP) | Ing. en Ciencias de la Computación |
 
 ---
 
@@ -726,7 +726,7 @@ Al recargar, el color cambia: **esmeralda = App1**, **violeta = App2**. El balan
 
 <div align="center">
 
-**🛒 Marketplace Local — Grupo 9 · SIS313 · USFX · Feria 2026**
+**🛒 Marketplace Local · SIS313 · USFX · Feria 2026**
 
 *Infraestructura pensada para no fallar.*
 
